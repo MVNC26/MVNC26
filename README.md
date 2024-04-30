@@ -1,10 +1,13 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1500&pause=1000&color=7F72FF&random=false&width=600&height=80&lines=Ol%C3%A1%2C+Me+chamo+Felipe+Tadeu!;Seja+bem+vindo+ao+meu+perfil!%F0%9F%91%8B" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1+Meu+nome+%C3%A9+Marcelo+Vila+Nova%2C+programando+para+trazer+o+sonhos+das+pessoas+em+realidade" alt="Typing SVG" /></a>
 
 <div>
-<p>Instrutor e Desenvolvedor,</p> 
+<p> Estude de progamação pelo instituto SENAI e estudante do curso superior de Fabrocação Mecânica</p> 
 
-<p>Atualmente sou Instrutor de Formação Profissional na Escola SENAI de Informática, atuando no curso Técnico em Multimídia e o Técnico em Jogos Digitais.</p>
-</div>
+<p>Atualmente sou estudante no curso de progamação de jogos (técnico) e de fabricação mecânica (superior), entretanto, já trabalhei em algumas aréas como:
+. estagiário de manutenção eletroeletrônica
+. técnico em  eletroeletrônica
+. Auxilar de elétrica
+</p>
 
 <br>
 
@@ -20,28 +23,20 @@
   <img align="center" alt="Tadeu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tadeu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tadeu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tadeu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tadeu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <!--<img align="center"  alt="Tadeu-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">-->
-  <img align="center"  alt="Tadeu-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-  <!--<img align="center"  alt="Tadeu-Rasberrypi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">-->
   <img align="center"  alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img align="center"  alt="git logo" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
   <img align="center"  alt="unity logo" height="30" width="40" src="https://cdn.simpleicons.org/unity/FFFFFF"/>
-  <img align="center"  alt="adobeillustrator logo" height="30" width="40" src="https://skillicons.dev/icons?i=ai"/>
-  <img align="center"  alt="adobephotoshop logo" height="30" width="40"src="https://skillicons.dev/icons?i=ps" height="40"/>
-  <img align="center"  alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg">
-
+ src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg">
 </div>
-
 
 <br>
 
 <div>
   <h2>🎓 Formação Acadêmica 🎓</h2> 
-    <p>⚙️ Bacharel em Engenharia da Computação - Univercidade Paulista (UNIP)</p> 
-    <p>💻 Técnico em Desenvolvimento de Sistemas - Escola Senai de Informática - Santa Cecília</p> 
-    <p>💻 Técnico em Mecatrônica - Escola Senai Armando de Arruda Pereira - São Caetano do Sul</p> 
+    <p>⚙️ Fabricação Mecânica-incompleto (FATEC-Itaquera)</p> 
+    <p>💻 Técnico em Mecatrônica - Escola Senai de "Roberto Simonsen" - Brás</p> 
+    <p>💻 Técnico em progamação de jogos - incompleto - Escola Senai Paulo Skaf- São Caetano do Sul</p> 
 </div>
 
 <br>
