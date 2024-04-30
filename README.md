@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1+Meu+nome+%C3%A9+Marcelo+Vila+Nova%2C+programando+para+trazer+o+sonhos+das+pessoas+em+realidade" alt="Typing SVG" /></a>
 
 <div>
-<p> Estude de progamação pelo instituto SENAI e estudante do curso superior de Fabrocação Mecânica</p> 
+<p> Estudante de progamação e Fabricação Mecânica</p> 
 
 <p>Atualmente sou estudante no curso de progamação de jogos (técnico) e de fabricação mecânica (superior), entretanto, já trabalhei em algumas aréas como:
 . estagiário de manutenção eletroeletrônica
@@ -27,8 +27,6 @@
   <img align="center"  alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img align="center"  alt="git logo" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
   <img align="center"  alt="unity logo" height="30" width="40" src="https://cdn.simpleicons.org/unity/FFFFFF"/>
- src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg">
-</div>
 
 <br>
 
