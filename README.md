@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1+Meu+nome+%C3%A9+Marcelo+Vila+Nova%2C+programando+para+trazer+o+sonhos+das+pessoas+em+realidade" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=&vCenter=true&random=true&width=435&lines=Ol%C3%A1+Meu+nome+%C3%A9+Marcelo+Vila+Nova!" alt="Typing SVG" /></a>
 <div>
+  
 <p> Estudante de progamação e Fabricação Mecânica</p> 
 
 <p>Atualmente sou estudante no curso de progamação de jogos (técnico) e de fabricação mecânica (superior), entretanto, já trabalhei em algumas aréas como:
